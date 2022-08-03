@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098604486006",
+    "firebase_url": "https://testfirebase-f5d17-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testfirebase-f5d17",
+    "storage_bucket": "testfirebase-f5d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098604486006:android:3e9488735d4d93a5e06e57",
+        "android_client_info": {
+          "package_name": "com.onwave.FireBaseTests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098604486006-jlj269uh99jlsie5hlb1e1g7spffs1r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmLvUvdaVRgILXGLiVbxHyQ5ZBU0SQUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098604486006-jlj269uh99jlsie5hlb1e1g7spffs1r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
